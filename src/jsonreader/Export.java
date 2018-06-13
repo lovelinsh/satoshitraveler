@@ -10,6 +10,6 @@ package jsonreader;
  *
  * @author guojef18
  */
-public class Post {
+public class Export {
     
 }

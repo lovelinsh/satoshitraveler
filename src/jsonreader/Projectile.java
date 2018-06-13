@@ -11,7 +11,7 @@ package jsonreader;
  */
 
 //andrew said he may needed so I included this.
-public class PID {
+public class Projectile {
     
     private double P = 0;
     private double I = 0;
@@ -31,7 +31,7 @@ public class PID {
     private double Filter = 0;
     private double setpointRange = 40;
 
-    public PID(double p, double i, double d) {
+    public Projectile(double p, double i, double d) {
         P = p;
         I = i;
         D = d;
